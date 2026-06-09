@@ -23,7 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\pollbackend\pollbackend.csproj" />
+    <ProjectReference Include="..\pollbackend.csproj" />
   </ItemGroup>
 
 </Project>

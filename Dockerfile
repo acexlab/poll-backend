@@ -1,8 +1,8 @@
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
 COPY . .
-RUN dotnet restore "pollbackend/pollbackend.csproj"
-RUN dotnet publish "pollbackend/pollbackend.csproj" -c Release -o /app
+RUN dotnet restore "pollbackend.csproj"
+RUN dotnet publish "pollbackend.csproj" -c Release -o /app
 
 FROM mcr.microsoft.com/dotnet/aspnet:8.0
 WORKDIR /app

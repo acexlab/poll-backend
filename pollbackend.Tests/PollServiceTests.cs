@@ -1,9 +1,9 @@
 using AutoMapper;
 using Moq;
-using pollbackend.Application.DTOs;
-using pollbackend.Application.Interfaces;
-using pollbackend.Application.Services;
-using pollbackend.Domain.Entities;
+using pollbackend.Dtos;
+using pollbackend.Data;
+using pollbackend.Services;
+using pollbackend.Models;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using Xunit;
