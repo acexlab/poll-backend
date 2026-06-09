@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gbX42IwfdmECktnMA0hHD7p4SWcH3s4N/uPlZh+M0mE=",
+  "Source": "pollbackend",
+  "BasePath": "_content/pollbackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
