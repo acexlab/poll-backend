@@ -46,6 +46,7 @@ namespace pollbackend.Data
                 entity.Property(e => e.Title).IsRequired().HasMaxLength(255);
                 entity.Property(e => e.Description).HasColumnType("TEXT");
                 entity.Property(e => e.IsEnabled).HasDefaultValue(false);
+                entity.Property(e => e.ShowResults).HasDefaultValue(false);
                 entity.Property(e => e.CreatedAt).IsRequired();
 
                 entity.HasIndex(e => e.IsEnabled).HasDatabaseName("idx_poll_enabled");

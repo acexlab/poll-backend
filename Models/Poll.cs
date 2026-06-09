@@ -9,6 +9,7 @@ namespace pollbackend.Models
         public string Title { get; set; } = string.Empty;
         public string? Description { get; set; }
         public bool IsEnabled { get; set; } = false;
+        public bool ShowResults { get; set; } = false;
         public long CreatedBy { get; set; }
         public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
 

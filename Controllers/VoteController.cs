@@ -13,10 +13,12 @@ namespace pollbackend.Controllers
     public class VoteController : ControllerBase
     {
         private readonly IVoteService _voteService;
+        private readonly IPollService _pollService;
 
-        public VoteController(IVoteService voteService)
+        public VoteController(IVoteService voteService, IPollService pollService)
         {
             _voteService = voteService;
+            _pollService = pollService;
         }
 
         private long GetUserId()
@@ -47,6 +49,17 @@ namespace pollbackend.Controllers
             {
                 return NotFound(new { message = "Poll not found." });
             }
+
+            var isUser = User.IsInRole("User");
+            if (isUser)
+            {
+                var poll = await _pollService.GetPollByIdAsync(pollId);
+                if (poll != null && !poll.ShowResults)
+                {
+                    return StatusCode(403, new { message = "Results are hidden for this poll." });
+                }
+            }
+
             return Ok(results);
         }
 

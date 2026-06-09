@@ -22,6 +22,7 @@ namespace pollbackend.Dtos
         public string Title { get; set; } = string.Empty;
         public string Description { get; set; } = string.Empty;
         public bool IsEnabled { get; set; }
+        public bool ShowResults { get; set; }
         public long CreatedBy { get; set; }
         public DateTime CreatedAt { get; set; }
         public List<PollOptionDto> Options { get; set; } = new List<PollOptionDto>();

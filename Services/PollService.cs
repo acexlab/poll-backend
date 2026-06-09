@@ -27,6 +27,7 @@ namespace pollbackend.Services
                 Title = createPollDto.Title,
                 Description = createPollDto.Description,
                 IsEnabled = false, // disabled by default until explicitly enabled
+                ShowResults = false,
                 CreatedBy = creatorId,
                 CreatedAt = DateTime.UtcNow,
                 Options = createPollDto.Options.Select(optText => new PollOption
@@ -119,6 +120,32 @@ namespace pollbackend.Services
             }
 
             await _pollRepository.DeleteAsync(pollId);
+            return true;
+        }
+
+        public async Task<bool> EnableViewResultsAsync(long pollId)
+        {
+            var poll = await _pollRepository.GetByIdAsync(pollId);
+            if (poll == null)
+            {
+                return false;
+            }
+
+            poll.ShowResults = true;
+            await _pollRepository.UpdateAsync(poll);
+            return true;
+        }
+
+        public async Task<bool> DisableViewResultsAsync(long pollId)
+        {
+            var poll = await _pollRepository.GetByIdAsync(pollId);
+            if (poll == null)
+            {
+                return false;
+            }
+
+            poll.ShowResults = false;
+            await _pollRepository.UpdateAsync(poll);
             return true;
         }
     }

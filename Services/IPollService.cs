@@ -14,5 +14,7 @@ namespace pollbackend.Services
         Task<PollDto?> GetPollByIdAsync(long id);
         Task<PaginatedResultDto<PollDto>> GetAllPollsPaginatedAsync(int page, int pageSize);
         Task<bool> DeletePollAsync(long pollId);
+        Task<bool> EnableViewResultsAsync(long pollId);
+        Task<bool> DisableViewResultsAsync(long pollId);
     }
 }

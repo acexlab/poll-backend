@@ -121,5 +121,29 @@ namespace pollbackend.Controllers
             }
             return Ok(new { message = "Poll deleted successfully." });
         }
+
+        [HttpPut("{id}/enable-results")]
+        [Authorize(Roles = "Admin")]
+        public async Task<IActionResult> EnableResults(long id)
+        {
+            var result = await _pollService.EnableViewResultsAsync(id);
+            if (!result)
+            {
+                return NotFound(new { message = "Poll not found." });
+            }
+            return Ok(new { message = "Poll results visibility enabled successfully." });
+        }
+
+        [HttpPut("{id}/disable-results")]
+        [Authorize(Roles = "Admin")]
+        public async Task<IActionResult> DisableResults(long id)
+        {
+            var result = await _pollService.DisableViewResultsAsync(id);
+            if (!result)
+            {
+                return NotFound(new { message = "Poll not found." });
+            }
+            return Ok(new { message = "Poll results visibility disabled successfully." });
+        }
     }
 }

@@ -1,0 +1,21 @@
+# Build outputs
+[Bb]in/
+[Oo]bj/
+
+# Publishing outputs
+publish/
+
+# IDEs/Editors
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Test outputs
+[Tt]est[Rr]esults/
+
+# Local/Temp files
+*.log
