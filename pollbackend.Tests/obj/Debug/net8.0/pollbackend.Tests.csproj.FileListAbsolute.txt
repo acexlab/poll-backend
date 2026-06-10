@@ -1,229 +1,179 @@
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_pollbackend.Tests
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\testhost.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.deps.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.runtimeconfig.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\appsettings.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.exe
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\testhost.exe
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests.deps.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests.runtimeconfig.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests.pdb
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\AutoMapper.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\BCrypt.Net-Next.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Castle.Core.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\FluentValidation.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Microsoft.OpenApi.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Moq.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\MySqlConnector.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Newtonsoft.Json.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\NuGet.Frameworks.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Serilog.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Serilog.AspNetCore.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Serilog.Sinks.Console.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Serilog.Sinks.File.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\SQLitePCLRaw.core.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\xunit.abstractions.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\xunit.assert.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\xunit.core.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\xunit.execution.dotnet.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.pdb
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\obj\Debug\net8.0\pollbackend.Tests.csproj.AssemblyReference.cache
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\obj\Debug\net8.0\pollbackend.Tests.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\obj\Debug\net8.0\pollbackend.Tests.AssemblyInfoInputs.cache
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\obj\Debug\net8.0\pollbackend.Tests.AssemblyInfo.cs
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\obj\Debug\net8.0\pollbackend.Tests.csproj.CoreCompileInputs.cache
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\obj\Debug\net8.0\pollbackend.Tests.sourcelink.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\obj\Debug\net8.0\pollback.09161CBA.Up2Date
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\obj\Debug\net8.0\pollbackend.Tests.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\obj\Debug\net8.0\refint\pollbackend.Tests.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\obj\Debug\net8.0\pollbackend.Tests.pdb
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\obj\Debug\net8.0\pollbackend.Tests.genruntimeconfig.cache
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\obj\Debug\net8.0\ref\pollbackend.Tests.dll
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\appsettings.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.deps.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.runtimeconfig.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests.deps.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests.runtimeconfig.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\obj\Debug\net8.0\pollbackend.Tests.sourcelink.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\obj\pollbackend.Tests.csproj.nuget.dgspec.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\obj\project.assets.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\appsettings.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.deps.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.runtimeconfig.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests.deps.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests.runtimeconfig.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\obj\Debug\net8.0\pollbackend.Tests.sourcelink.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\obj\pollbackend.Tests.csproj.nuget.dgspec.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\obj\project.assets.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\appsettings.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.deps.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.runtimeconfig.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests.deps.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests.runtimeconfig.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\obj\Debug\net8.0\pollbackend.Tests.sourcelink.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\obj\pollbackend.Tests.csproj.nuget.dgspec.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\obj\project.assets.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Release\net8.0\appsettings.Development.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Release\net8.0\appsettings.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Release\net8.0\pollbackend.deps.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Release\net8.0\pollbackend.runtimeconfig.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Release\net8.0\pollbackend.Tests.deps.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Release\net8.0\pollbackend.Tests.runtimeconfig.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Release\net8.0\pollbackend.Tests\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Release\net8.0\pollbackend.Tests\bin\Debug\net8.0\appsettings.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Release\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.deps.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Release\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.runtimeconfig.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Release\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests.deps.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Release\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests.runtimeconfig.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Release\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Release\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\appsettings.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Release\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.deps.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Release\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.runtimeconfig.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Release\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests.deps.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Release\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests.runtimeconfig.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Release\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Release\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\appsettings.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Release\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.deps.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Release\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.runtimeconfig.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Release\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests.deps.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Release\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests.runtimeconfig.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Release\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\obj\Debug\net8.0\pollbackend.Tests.sourcelink.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Release\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\obj\pollbackend.Tests.csproj.nuget.dgspec.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Release\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\obj\project.assets.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Release\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\obj\Debug\net8.0\pollbackend.Tests.sourcelink.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Release\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\obj\pollbackend.Tests.csproj.nuget.dgspec.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Release\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\obj\project.assets.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Release\net8.0\pollbackend.Tests\obj\Debug\net8.0\pollbackend.Tests.sourcelink.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Release\net8.0\pollbackend.Tests\obj\pollbackend.Tests.csproj.nuget.dgspec.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Release\net8.0\pollbackend.Tests\obj\project.assets.json
-C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\obj\Release\net8.0\pollbackend.Tests.sourcelink.json
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_pollbackend.Tests
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\testhost.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.deps.json
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.runtimeconfig.json
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\appsettings.json
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\obj\pollbackend.Tests.csproj.nuget.dgspec.json
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\obj\project.assets.json
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.exe
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\testhost.exe
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests.deps.json
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests.runtimeconfig.json
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests.pdb
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Moq.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Serilog.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\xunit.abstractions.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\xunit.assert.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\xunit.core.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\xunit.execution.dotnet.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.pdb
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\obj\Debug\net8.0\pollbackend.Tests.csproj.AssemblyReference.cache
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\obj\Debug\net8.0\pollbackend.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\obj\Debug\net8.0\pollbackend.Tests.AssemblyInfoInputs.cache
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\obj\Debug\net8.0\pollbackend.Tests.AssemblyInfo.cs
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\obj\Debug\net8.0\pollbackend.Tests.csproj.CoreCompileInputs.cache
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\obj\Debug\net8.0\pollbackend.Tests.sourcelink.json
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\obj\Debug\net8.0\pollback.09161CBA.Up2Date
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\obj\Debug\net8.0\pollbackend.Tests.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\obj\Debug\net8.0\refint\pollbackend.Tests.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\obj\Debug\net8.0\pollbackend.Tests.pdb
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\obj\Debug\net8.0\pollbackend.Tests.genruntimeconfig.cache
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\obj\Debug\net8.0\ref\pollbackend.Tests.dll
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\appsettings.json
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.deps.json
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.runtimeconfig.json
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests.deps.json
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests.runtimeconfig.json
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\obj\pollbackend.Tests.csproj.nuget.dgspec.json
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\obj\project.assets.json
+C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\bin\Debug\net8.0\pollbackend.Tests\obj\Debug\net8.0\pollbackend.Tests.sourcelink.json

@@ -24,6 +24,7 @@ namespace pollbackend.Data
                     Title = x.Title,
                     Description = x.Description,
                     IsEnabled = x.IsEnabled,
+                    ShowResults = x.ShowResults,
                     CreatedBy = x.CreatedBy,
                     CreatedAt = x.CreatedAt,
                     Options = x.Options.Select(o => new PollOption
@@ -48,6 +49,7 @@ namespace pollbackend.Data
             if (existing != null)
             {
                 existing.IsEnabled = poll.IsEnabled;
+                existing.ShowResults = poll.ShowResults;
                 existing.Title = poll.Title;
                 existing.Description = poll.Description;
                 await _context.SaveChangesAsync();
@@ -65,6 +67,7 @@ namespace pollbackend.Data
                     Title = x.Title,
                     Description = x.Description,
                     IsEnabled = x.IsEnabled,
+                    ShowResults = x.ShowResults,
                     CreatedBy = x.CreatedBy,
                     CreatedAt = x.CreatedAt,
                     Options = x.Options.Select(o => new PollOption
@@ -90,6 +93,7 @@ namespace pollbackend.Data
                     Title = x.Title,
                     Description = x.Description,
                     IsEnabled = x.IsEnabled,
+                    ShowResults = x.ShowResults,
                     CreatedBy = x.CreatedBy,
                     CreatedAt = x.CreatedAt,
                     Options = x.Options.Select(o => new PollOption

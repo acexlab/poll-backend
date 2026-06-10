@@ -8445,32 +8445,39 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\shefi\\.nuget\\packages\\": {}
+    "C:\\Users\\jonadh.ef\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shefi\\OneDrive\\Documents\\Jonadh\\poll-backend\\pollbackend.Tests\\pollbackend.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\jonadh.ef\\OneDrive - NeST Group\\Documents\\codes\\poll\\poll-backend\\pollbackend.Tests\\pollbackend.Tests.csproj",
       "projectName": "pollbackend.Tests",
-      "projectPath": "C:\\Users\\shefi\\OneDrive\\Documents\\Jonadh\\poll-backend\\pollbackend.Tests\\pollbackend.Tests.csproj",
-      "packagesPath": "C:\\Users\\shefi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shefi\\OneDrive\\Documents\\Jonadh\\poll-backend\\pollbackend.Tests\\obj\\",
+      "projectPath": "C:\\Users\\jonadh.ef\\OneDrive - NeST Group\\Documents\\codes\\poll\\poll-backend\\pollbackend.Tests\\pollbackend.Tests.csproj",
+      "packagesPath": "C:\\Users\\jonadh.ef\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jonadh.ef\\OneDrive - NeST Group\\Documents\\codes\\poll\\poll-backend\\pollbackend.Tests\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\shefi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\jonadh.ef\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\shefi\\OneDrive\\Documents\\Jonadh\\poll-backend\\pollbackend.csproj": {
-              "projectPath": "C:\\Users\\shefi\\OneDrive\\Documents\\Jonadh\\poll-backend\\pollbackend.csproj"
+            "C:\\Users\\jonadh.ef\\OneDrive - NeST Group\\Documents\\codes\\poll\\poll-backend\\pollbackend.csproj": {
+              "projectPath": "C:\\Users\\jonadh.ef\\OneDrive - NeST Group\\Documents\\codes\\poll\\poll-backend\\pollbackend.csproj"
             }
           }
         }
@@ -8531,7 +8538,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.421/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

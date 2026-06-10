@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = pollbackend.Tests
-build_property.ProjectDir = C:\Users\shefi\OneDrive\Documents\Jonadh\poll-backend\pollbackend.Tests\
+build_property.ProjectDir = C:\Users\jonadh.ef\OneDrive - NeST Group\Documents\codes\poll\poll-backend\pollbackend.Tests\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
