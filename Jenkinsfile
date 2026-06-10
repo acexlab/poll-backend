@@ -88,7 +88,7 @@ pipeline {
                 docker run -d --name %API_CONT% --network %NETWORK% ^
                     -e ASPNETCORE_ENVIRONMENT=Development ^
                     -e ASPNETCORE_URLS=http://+:8080 ^
-                    -e MYSQL_CONNECTION_STRING="Server=%MYSQL_CONT%;Port=3306;Database=%MYSQL_DB%;User=root;Password=%MYSQL_PWD%;" ^
+                    -e ConnectionStrings__MySqlConnection="Server=%MYSQL_CONT%;Port=3306;Database=%MYSQL_DB%;User=root;Password=%MYSQL_PWD%;" ^
                     -e JWT_ISSUER=linkedin-api ^
                     -e JWT_AUDIENCE=linkedin-clone ^
                     -e JWT_SECRET=change-this-development-secret-at-least-32-characters ^
