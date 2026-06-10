@@ -37,6 +37,21 @@ pipeline {
                 bat """
                 docker rm -f %MYSQL_CONT% 2>nul || ver >nul
  
+                :: Retry pulling the image up to 3 times in case of transient network issues
+                set retryCount=0
+                :retryPull
+                docker pull mysql:8.0
+                if errorlevel 1 (
+                    set /a retryCount+=1
+                    if %retryCount% geq 3 (
+                        echo Failed to pull mysql:8.0 after 3 attempts.
+                        exit /b 1
+                    )
+                    echo Pull failed, retrying in 5 seconds...
+                    ping -n 6 127.0.0.1 >nul
+                    goto retryPull
+                )
+ 
                 docker run -d --name %MYSQL_CONT% --network %NETWORK% ^
                     -e MYSQL_ROOT_PASSWORD=%MYSQL_PWD% ^
                     -e MYSQL_DATABASE=%MYSQL_DB% ^
